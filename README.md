@@ -1,3 +1,7 @@
+# Kodluyoruz ilk repo
+
+![github%20repo.png](attachment:github%20repo.png)
+
 # Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek) 
